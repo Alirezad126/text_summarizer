@@ -1,7 +1,7 @@
 # Text Summarization Web App
 
 This project is a text summarization web application built using FastAPI and BART model. It allows users to input text and receive a summarized version of the text in return. The backend is powered by FastAPI, which serves both the API endpoints and the static frontend files.
-
+![Alt Text](summarizer.jpg)
 ## Getting Started
 
 ### Prerequisites
